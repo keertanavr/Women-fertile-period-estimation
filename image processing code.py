@@ -2,7 +2,7 @@
 """
 Created on Tue May 21 00:12:16 2019
 
-@author: team
+@author: Keertana Vinod Ram, Project Ovukit
 """
 
 #CODE FOR IMAGE PROCESSING OF THE FIRST PARAMETER- SALIVA FERN PATTERN RECOGNITION

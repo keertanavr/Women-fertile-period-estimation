@@ -1,3 +1,5 @@
+// code create in 2019 
+// authors: Sudesh Rokade, Keertana Vinod Ram, Saroja Ramachandra, Poojitha Narayan
 float temp; //variable to hold temperature sensor value
 float tem=100;
 
